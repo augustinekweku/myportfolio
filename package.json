@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "description": "portfolio site for augustine nani",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustinekweku/myportfolio.git"
+  },
+  "author": "augustine nani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augustinekweku/myportfolio/issues"
+  },
+  "homepage": "https://github.com/augustinekweku/myportfolio#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
